@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- [[! Document Settings ]] -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- [[! Page Meta ]] -->
+    <title>About</title>
+    <meta name="description" content="Chaitra Agrahar - Physicist, Musician, Literature and Language Enthusiast" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="assets/images/favicon.ico" >
+
+    <!-- [[! Styles'n'Scripts ]] -->
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css"
+          href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    
+    <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
+        <link rel="canonical" href="" />
+    <meta name="referrer" content="origin" />
+    <link rel="next" href="page2/" />
+
+    <meta property="og:site_name" content="Chaitra Agrahar" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Chaitra Agrahar" />
+    <meta property="og:description" content="Physicist, Musician, Literature and Language Enthusiast" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="assets/images/cover1.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Chaitra Agrahar" />
+    <meta name="twitter:description" content="Physicist, Musician, Literature and Language Enthusiast" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:image:src" content="assets/images/cover1.jpg" />
+
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Website",
+    "publisher": "Chaitra Agrahar",
+    "url": "",
+    "image": "assets/images/cover1.jpg",
+    "description": "Physicist, Musician, Literature and Language Enthusiast"
+}
+    </script>
+
+    <meta name="generator" content="Jekyll 3.0.0" />
+    <link rel="alternate" type="application/rss+xml" title="Chaitra Agrahar" href="rss.xml" />
+
+</head>
+<body class="page-template nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        <li class="nav-home " role="presentation"><a href="">Home</a></li>
+        <li class="nav-about  nav-current" role="presentation"><a href="../../about.html">About</a></li>
+        <li class="nav-research " role="presentation"><a href="../../tag/research/">Research</a></li>
+        <li class="nav-publications & presentations" role="presentation"><a href="../../tag/publicatios & presentations/">Publications & Presentations</a></li>
+        <li class="nav-teaching " role="presentation"><a href="../../tag/teaching/">Teaching</a></li>
+        <li class="nav-music" role="presentation"><a href="../../tag/music/">Music</a></li>
+    </ul>
+    <a class="subscribe-button icon-feed" href="rss.xml">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+    <div class="site-wrapper">
+
+        <!-- [[! Everything else gets inserted here ]] -->
+        <!-- < default -->
+
+<!-- This is a page template. A page outputs content just like any other post, and has all the same -->
+    <!-- attributes by default, but you can also customise it to behave differently if you prefer.  -->
+
+<!-- Everything inside the #post tags pulls data from the page -->
+<!-- #post -->
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="blog-logo" href=""><img src="assets/images/ghost.png" alt="Blog Logo" /></a>
+        
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+            
+        
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post">
+        <!-- Everything inside the #post tags pulls data from the post -->
+
+        <header class="post-header">
+            <h1 class="post-title">About</h1>
+        </header>
+
+        <section class="post-content">
+            <p>I'm a Theoretical Physicist by training, with interests in biophysics, condensed matter physics, systems biology, and computational methods. 
+	       I'm particularly interested in deriving fundamental design principles of biological systems. This includes understanding the structure and flow of information in biological systems, and understanding how biology leverages stochasticity for achieving desired functionality.</p>
+ 		
+	    <p>Outside of Physics, I'm a <a href="https://en.wikipedia.org/wiki/Carnatic_music">Carnatic</a> classical Vocalist and a <a href="https://en.wikipedia.org/wiki/Veena">Veena</a> player. I love learning new languages, and reading fiction and history. I have a podcast, <a href="https://podcasts.apple.com/us/podcast/ninaada-the-waves-of-music/id1516366875"><i>Ninaada: The Waves of Music</i></a> exploring the connections between music, cultures, and neuroscience.</p>
+    	
+        </section>
+	    
+	<header class="post-header">
+            <h2 class="post-title">Experience</h2>
+        </header>
+		
+	<section class="post-content">
+		<p><b>Computational Scientist:</b> <a href="https://altoslabs.com">Altos Labs</a><br>
+	<b>Groups:</b> <a href="https://altoslabs.com/team/principal-investigators-bay-area/hana-el-samad/">Prof. Hana El-Samad</a>, <a href="https://altoslabs.com/team/principal-investigators-bay-area/simone-bianco/">Dr. Simone Bianco</a></p>
+
+	<p><b>Researcher:</b> <a href="https://wi.mit.edu">Whitehead Institute</a><br>
+	<b>Advisor:</b> <a href="https://wi.mit.edu/people/member/li">Dr. Pulin Li</a></p>
+		
+	<section>
+		
+	<header class="post-header">
+            <h2 class="post-title">Education</h2>
+        </header>
+
+	<section class="post-content">
+		<p><b>PhD, Physics:</b> <a href="https://uic.edu">University of Illinois at Chicago</a>, <a href="https://uchicago.edu">University of Chicago</a><br>
+		<b>Thesis:</b> Regulatory Mechanisms in Biological Oscillators<br>
+		<b>Advisor:</b> <a href="https://rustlab.uchicago.edu/">Prof. Michael Rust</a></p>
+		
+		<p><b>BS-MS:</b> <a href="https://www.iiserpune.ac.in">Indian Institute for Science Education and Research (IISER), Pune</a><br>
+		<b>Thesis:</b> Hawking Radiationin Analogue Gravity<br>
+		<b>Advisor:</b> <a href="https://www.iiserpune.ac.in/research/department/physics/people/faculty/regular-faculty/arijit-bhattacharyay/242">Prof. Arijit Bhattacharyay</a></p>
+
+        </section>
+
+	<header class="post-header">
+            <h2 class="post-title">Skills</h2>
+        </header>
+
+	<section class="post-content">
+		<p><b>Computational SKills:</b> Python, MATLAB, Mathematica<br>
+		<b>Languages:</b> English, Kannada, Hindi, Sanskrit (fluent)<br>
+				  Telugu, Tamil (Intermediate)<br>
+				  Spanish, German (Elementary)</p>
+
+		<p>CV provied upon request.</p>
+
+	</section>
+
+    </article>
+
+</main>
+<!-- /post -->
+
+
+        <footer class="site-footer clearfix">
+          <section class="copyright"><a href="">Finding The Way Home</a> &copy; 2015</section>
+          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="http://github.com/biomadeira/jasper">Jasper</a></section>
+        </footer>
+    </div>
+    <!-- [[! Ghost outputs important scripts and data with this tag ]] -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- [[! The main JavaScript file for Casper ]] -->
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="assets/js/index.js"></script>
+
+    <!-- Add Google Analytics  -->
+        <!-- Google Analytics Tracking code -->
+     <script>
+	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	    ga('create', 'UA-69281367-1', 'auto');
+	    ga('send', 'pageview');
+
+     </script>   
+</body>
+</html>
