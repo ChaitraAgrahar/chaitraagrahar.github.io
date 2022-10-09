@@ -85,6 +85,23 @@
     "description": "Physicist, Musician, Literature and Language Enthusiast"
 }
     </script>
+	
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 
     <meta name="generator" content="Jekyll 3.0.0" />
     <!--<link rel="alternate" type="application/rss+xml" title="Chaitra Agrahar" href="../../rss.xml" /> -->
@@ -152,22 +169,7 @@
     <!-- This is the post loop - each post will be output using this markup -->
 	<body>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
 
 	<article class="post">
 	 <section class="post-content">
