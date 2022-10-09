@@ -36,44 +36,7 @@
     <meta name="twitter:description" content="Physicist, Musician, Literature and Language Enthusiast" />
     <meta name="twitter:url" content="../../" />
     <meta name="twitter:image:src" content="../../assets/images/cover1.jpg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-	.collapsible {
-	  background-color: #777;
-	  color: white;
-	  cursor: pointer;
-	  padding: 18px;
-	  width: 100%;
-	  border: none;
-	  text-align: left;
-	  outline: none;
-	  font-size: 15px;
-	}
-
-	.active, .collapsible:hover {
-	  background-color: #555;
-	}
-
-	.collapsible:after {
-	  content: '\002B';
-	  color: white;
-	  font-weight: bold;
-	  float: right;
-	  margin-left: 5px;
-	}
-
-	.active:after {
-	  content: "\2212";
-	}
-
-	.content {
-	  padding: 0 18px;
-	  max-height: 0;
-	  overflow: hidden;
-	  transition: max-height 0.2s ease-out;
-	  background-color: #f1f1f1;
-	}
-	</style>
+   
 <script>
     <script type="application/ld+json">
 {
@@ -86,23 +49,6 @@
 }
     </script>
 	
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
-
     <meta name="generator" content="Jekyll 3.0.0" />
     <!--<link rel="alternate" type="application/rss+xml" title="Chaitra Agrahar" href="../../rss.xml" /> -->
     <link rel="alternate" type="chaitraagrahar.github.io/research.html" title="Chaitra Agrahar" href="../chaitraagrahar.github.io/research.html" />
@@ -180,31 +126,8 @@ for (i = 0; i < coll.length; i++) {
               <p>I briefly sketch the projects I’ve worked on, and my interests here.</p>
     	
         </section>
-	<article>
-	    
-	<header class="post-header">
-	<h2><button class="collapsible">Biological Oscillators</button></h2>
-	
-	<div class="content">
-  	 <p>Most living organisms have periodic processes that help them anticipate recurring events or changes in the environments. 
-            The most familiar of these is probably circadian rhythms - commonly known as the sleep-wake cycle. 
-	    Oscillatory processes occur in organisms cross many species, and many orders of magnitude of time periods. 
-	    From neuronal oscillations, which an occur on a timescale of a few ms, to the cell-cycle which occurs on timescales from minutes to days, 
-	    to circannual clocks, which are approximately a year long cycle, oscillatory process permeate biological systems.</p>
-
-	    <p>When biologists look at the diverse processes and timescales over which temporal rhythms occur, they find that certain biochemical network topologies are evolutionarily selected. 
-	    It has long been understood that free-running oscillations require feedback loops where the activity of one component depends on the concentration of another. 
-	    Oscillator motifs have been classified by the positive or negative net logic of these loops. Most studies regarding network topologies focus on the statistics of these network motifs.  
-	    However, each feedback loop can be implemented by regulation of either the production step or the removal step. These possibilities are not equivalent because of the underlying structure of biochemical kinetics.</p>
-
-	    <p>By computationally searching over these possibilities, we find that certain molecular implementations are much more likely to produce stable oscillations. 
-	    These preferred molecular implementations are found in many natural systems, but not typically in artificial oscillators, suggesting a design principle for future synthetic biology.</p> 
-
-	    <p>Finally, we develop an approach to oscillator function across different reaction networks by evaluating the biosynthetic cost needed to achieve a given phase coherence. 
-	    We find that noise-induced oscillations can occur at low copy numbers. This analysis predicts that phase drift is most efficiently suppressed by delayed negative feedback lo op architectures that operate without positive feedback.</p>
-  
-    </div>
-
+		
+	<article>	
         <h2 class="post-title">Biological Oscillators</h2>
         </header>
 
